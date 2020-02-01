@@ -24,7 +24,7 @@ images, graphics, or media to promotional use only.
     background-repeat:no-repeat;
 }
 .custom.disconnected { /* This class shows an image when the controller is disconnected */
-    background: url(disconnected.gif);
+    background: url(disconnected.png);
     background-repeat:no-repeat;
 }
 /* This hides the controller's button when disconnected so only the background image remains */ 
